@@ -203,7 +203,7 @@ Each group would be able to choose which tools to use to solve their needs. The 
 - [RED5](http://www.red5.org/)
 - [Kaltura Video Platform](http://corp.kaltura.com/Products/Features/Video-Streaming)
 - [Ampache](https://github.com/ampache/ampache/)
-- [Dyne:bolic](http://www.dynebolic.org/) + freeJ](http://freej.dyne.org/)
+- [Dyne:bolic](http://www.dynebolic.org/) + [freeJ](http://freej.dyne.org/)
 - [IceCast](http://www.icecast.org/)
 - [VideoLan](http://www.videolan.org/)
 - [SteamCast](http://www.steamcast.com/)
