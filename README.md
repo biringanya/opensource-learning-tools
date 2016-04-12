@@ -90,19 +90,17 @@ Each group would be able to choose which tools to use to solve their needs. The 
 - [Disqus](http://disqus.com/)
 
 ## Open Social Networks
-- [Status Net](http://status.net/)
-- [Jisko](http://jisko.net/#)
-- [Thimbl](http://www.thimbl.net/)
+- <s>[Jisko](http://jisko.net/#)</s>
+- <s>[Thimbl](http://www.thimbl.net/)</s>
 - [jaikuEngine](https://code.google.com/p/jaikuengine/)
-- [Sharetronix](http://developer.sharetronix.com/)
-- [EchoWaves](https://github.com/echowaves/echowaves)
-- [Storytlr](http://storytlr.org/)
-- [GNU Social](https://gnu.io/social/)
-- [Pump.io](http://pump.io/)
+- [Storytlr](https://github.com/storytlr/storytlr)
+- [GNU Social](https://git.gnu.io/gnu/gnu-social)
+- [Pump.io](https://github.com/e14n/pump.io) - <s>[Status Net](http://status.net/)</s>
 
 ## Closed Social Networks
 - [Elgg](http://elgg.org)
 - [Diaspora](https://github.com/diaspora/diaspora)
+- [Sharetronix](http://developer.sharetronix.com/)
 
 ## Mailing List
 - [PhpList](http://www.phplist.com/)
@@ -138,15 +136,13 @@ Each group would be able to choose which tools to use to solve their needs. The 
 - [eFront](http://opensource.efrontlearning.net/)
 - [Claroline Connect](http://www.claroline.net/)
 
-## Groupware
-- [Open Meeting](http://openmeetings.apache.org/)
-- [Wave in-a-box](http://www.waveprotocol.org/)
-
 ## Team Work Collab
 - [Let's Chat](http://sdelements.github.io/lets-chat/)
 - [Sandstorm](https://sandstorm.io/)
 - [Mattermost](http://www.mattermost.org/)
 - [Rocket Chat](https://rocket.chat/)
+- [Apache Open Meeting](http://openmeetings.apache.org/)
+- [Google Wave Protocol](http://www.waveprotocol.org/)
 
 ## Interactive Slides
 - [Xerte](http://www.nottingham.ac.uk/xerte/index.aspx)
@@ -180,9 +176,9 @@ Each group would be able to choose which tools to use to solve their needs. The 
 - [ownCloud](http://owncloud.org/)
 
 ## Meetings
-- [Dudle](https://dudle.inf.tu-dresden.de/)
+- [Dudle](https://dudle.inf.tu-dresden.de/privacy/)
 - [Pleft](http://pleft.thecoder4.eu/)
-- [Frame Date](http://framadate.org)
+- [Frame Date](https://git.framasoft.org/framasoft/framadate)
 
 ## Surveys
 - [Lime Survey](http://www.limesurvey.org/es)
