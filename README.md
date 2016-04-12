@@ -10,6 +10,7 @@ Each group would be able to choose which tools to use to solve their needs. The 
 
 ## PAD                                           
 - [Etherpad](http://etherpad.org/)
+- [ParticiPAD - WP Plugin](http://participad.org/)
 
 ## WIKI
 - [Dokuwiki](https://www.dokuwiki.org/dokuwiki)
@@ -18,7 +19,7 @@ Each group would be able to choose which tools to use to solve their needs. The 
 - [XWiki](http://www.xwiki.org/xwiki/bin/view/Main/)
 - [Bolt Wire](http://www.boltwire.com/)
 
-## CMS
+## Content Management System (Dinamic)
 - [Wordpress](http://wordpress.org)
 - [Wordpress MU](http://mu.wordpress.org/)
 - [BuddyPress](http://buddypress.org/)
@@ -33,8 +34,9 @@ Each group would be able to choose which tools to use to solve their needs. The 
 - [Zotonic](http://zotonic.com/)
 - [11in1](http://www.11in1.org/)
 - [monstra](http://monstra.org/)
+- [Get Simple](http://get-simple.info/)
 
-## Static Site Generators/ CMS
+## Static Site Generators
 - [Hugo](http://gohugo.io/)
 - [Backed.js](https://github.com/prismicio/baked.js)
 - [WebFlowCMS](https://webflow.com/)
@@ -57,11 +59,7 @@ Each group would be able to choose which tools to use to solve their needs. The 
 - [3ra llista d'opcions](https://www.staticgen.com/)
 - [4ta llista d'opcions](https://github.com/aharris88/awesome-static-website-services#online-editors-for-static-sites)
 
-## COMENTARIS PER A LLOCS ESTÀTICS
-
-- [Simple Form](https://getsimpleform.com/)
-
-## CURACIÓ DE CONTINGUTS
+## Content Curation Tools
 - [Managing News](http://managingnews.com/)
 - [Comma Feed](http://www.commafeed.com/)
 - [Tiny Tiny RSS](http://tt-rss.org/redmine/projects/tt-rss/wiki)
@@ -74,30 +72,35 @@ Each group would be able to choose which tools to use to solve their needs. The 
 - [PHP Paper](https://github.com/xbmcfreak/phppaper)
 - [Bookie](https://github.com/bookieio/Bookie)
 
-## AGREGADORS DE RSS OBERTS
+## RSS agregators
 - [Planet](http://www.planetplanet.org/)
 - [Moon Moon](http://moonmoon.org/)
 - [RNews](http://rnews.sourceforge.net/)
 - [Lilina](http://getlilina.org/)
 
-## SISTEMA DE COMENTARIS
+## Comments System
 - [Commentics](http://www.commentics.org/)
 - [Discourse](http://www.discourse.org/)
 - [HashOver](https://github.com/jacobwb/hashover)
 - [Isso](http://posativ.org/isso/)
 - [Master Comments System](https://github.com/ionutvmi/master-comments-system)
+- [Simple Form](https://getsimpleform.com/)
+- [Phusion](https://github.com/phusion/juvia)
+- [Commentics](http://www.commentics.org/)
+- [jskomment](https://code.google.com/p/jskomment/)
+- [Disqus](http://disqus.com/)
 
-## XARXES SOCIALS TANCADES
+## Closed Social Networks
 - [Elgg ](N-1)](http://elgg.org)
 - [Diaspora](https://github.com/diaspora/diaspora)
 
-## LLISTES DE CORREU
+## Mailing List
 - [PhpList](http://www.phplist.com/)
 - [Sympa](http://www.sympa.org/)
 - [Pommo](http://pommo.org/Main_Page)
 - [MailMan](http://www.gnu.org/software/mailman/index.html)
 
-## FÒRUMS
+## Forums
 - [Vanilla Forum](http://vanillaforums.org/)
 - [UseBB](http://www.usebb.net/)
 - [Yasz forum software](http://www.forumsoftware.ca/)
@@ -111,14 +114,13 @@ Each group would be able to choose which tools to use to solve their needs. The 
 - [PhpBB](https://www.phpbb.com/)
 - [Phorum](http://www.phorum.org/)
 - [esoTalk](http://esotalk.org/)
+- [Flarum](http://flarum.org/)
 
-## AULES
-- [Sugar](http://www.sugarlabs.org/)
+## Classrooms
 - [Moodle](http://moodle.org)
 - [WebHuddle](https://www.webhuddle.com/)
 - [KnowBandLive](https://code.google.com/p/knowbandlive/)
 - [BigBlueButton](http://www.bigbluebutton.org/)
-- [ShowDocument](http://www.showdocument.com/)
 - [Sakai CLE](http://www.sakaiproject.org/node/2260)
 - [Sakai OAE](http://www.sakaiproject.org/node/2239)
 - [Open MOOC](https://github.com/OpenMOOC)
@@ -126,36 +128,38 @@ Each group would be able to choose which tools to use to solve their needs. The 
 - [eFront](http://opensource.efrontlearning.net/)
 - [Claroline Connect](http://www.claroline.net/)
 
-
-## SALES GROUPWARE
+## Groupware
 - [Open Meeting](http://openmeetings.apache.org/)
 - [Wave in-a-box](http://www.waveprotocol.org/)
 
-## ESPAIS DE TREBALL EN GRUP (XAT)
+## Team Work Collab
 - [Let's Chat](http://sdelements.github.io/lets-chat/)
 - [Sandstorm](https://sandstorm.io/)
 - [Mattermost](http://www.mattermost.org/)
 - [Rocket Chat](https://rocket.chat/)
 
-## PRESENTACIONS INTERACTIVES
+## Interactive Slides
 - [Xerte](http://www.nottingham.ac.uk/xerte/index.aspx)
+- [Swipe](https://www.swipe.to/) - Not Open Source
 
-## ENTORNS INMERSIUS 3D
+## Document Editing
+- [Fiddle](https://fiddle.md/)
+
+## 3D Immersive
 - [OpenWonderland](http://openwonderland.org/)
 
-## TASQUES
+## Tasks
 - [ownCloud](http://owncloud.org/)
 
-## SUPORT A LA RECERCA
+## Research Suport
 - [From the Page](http://beta.fromthepage.com/)
 - [oTranscribe](http://otranscribe.com/)
 - [SCALAR](http://scalar.usc.edu/scalar/)
 - [Editor's Notes](http://editorsnotes.org/)
 - [Annotum - WP Plugin](http://annotum.org/)
-- [ParticiPAD - WP Plugin](http://participad.org/)
 - [Llista DIRT Directory](http://dirtdirectory.org/)
 
-## CALENDARI
+## Calendar
 - [Calendar Server](http://trac.calendarserver.org/)
 - [DAViCal](http://www.davical.org/)
 - [Bedework](http://www.jasig.org/bedework)
@@ -165,12 +169,12 @@ Each group would be able to choose which tools to use to solve their needs. The 
 - [Web Calendar](http://www.k5n.us/webcalendar.php)
 - [ownCloud](http://owncloud.org/)
 
-## CITES
+## Meetings
 - [Dudle](https://dudle.inf.tu-dresden.de/)
 - [Pleft](http://pleft.thecoder4.eu/)
 - [Frame Date](http://framadate.org)
 
-## QÜESTIONARIS
+## Surveys
 - [Lime Survey](http://www.limesurvey.org/es)
 - [jSurvey](http://forge.ow2.org/projects/jsurvey)
 - [Survey Project](http://www.surveyproject.org/)
@@ -178,7 +182,7 @@ Each group would be able to choose which tools to use to solve their needs. The 
 - [Survey4All](http://www.survey4all.org/)
 - [Encuestame](https://code.google.com/p/encuestame/)
 
-## REPOSITORI D'ARXIUS
+## File Repository
 - [OpenDocMan](http://www.opendocman.com/)
 - [Sparkle](http://sparkleshare.org/)
 - [Syncany](http://www.syncany.org/)
@@ -187,13 +191,13 @@ Each group would be able to choose which tools to use to solve their needs. The 
 - [EpiWare](http://www.epiware.com/)
 - [Subsonic](http://www.subsonic.org/pages/index.jsp)
 - [DSpace](http://www.dspace.org/)
-- [Ubuntu One](http://one.ubuntu.com)
 - [DPubs Digital Publishing](http://dpubs.org/)
 - [Open Scholar](http://openscholar.harvard.edu/home)
 - [Openexhibits](http://openexhibits.org/)
 - [FreeNAS](http://web.freenas.org/)
+- <s>[Ubuntu One](http://one.ubuntu.com)</s>
 
-## STREAMING D'ÀUDIO/VÍDEO
+## Audio & Video Streaming
 - [Flumotion](http://www.flumotion.net/)
 - [erylVideo](http://erlyvideo.org/doc/installation)
 - [RED5](http://www.red5.org/)
@@ -208,13 +212,13 @@ Each group would be able to choose which tools to use to solve their needs. The 
 - [MediaCore](http://mediacore.com/)
 - [Plex media server](https://plex.tv/)
 
-## MEDIA CENTER
+## Media Center
 - [Goblin Media Center](http://mediagoblin.org/)
 - [C++ RTMP Server](http://www.rtmpd.com/)
 - [Flumotion](http://flumotion.net/)
 - [Mist Server](http://www.mistserver.org/)
 
-## MAPES
+## Maps
 - [OpenStreetMap](http://www.openstreetmap.org/)
 - [Map Quest](http://www.mapquest.es/)
 - [TileMill](http://mapbox.com/tilemill/index.html)
@@ -223,7 +227,7 @@ Each group would be able to choose which tools to use to solve their needs. The 
 - [Crowdmap](https://crowdmap.com/)
 - [Leaflet](http://leafletjs.com/)
 
-## REPOSITORI DE PROGRAMARI
+## Software Repositories
 - [SourceForge](http://sourceforge.net/)
 - [RedMine](http://www.redmine.org/)
 - [Project Pier](http://www.projectpier.org/)
@@ -235,13 +239,7 @@ Each group would be able to choose which tools to use to solve their needs. The 
 - [OSQA](http://www.osqa.net/)
 - [phpMyFAQ](http://www.phpmyfaq.de/)
 
-## COMENTARIS
-- [Phusion](https://github.com/phusion/juvia)
-- [Commentics](http://www.commentics.org/)
-- [jskomment](https://code.google.com/p/jskomment/)
-- [Disqus](http://disqus.com/)
-
-## MICROBLOGGING
+## Microbolgging
 - [Status Net](http://status.net/)
 - [Jisko](http://jisko.net/#)
 - [Thimbl](http://www.thimbl.net/)
@@ -257,16 +255,16 @@ Each group would be able to choose which tools to use to solve their needs. The 
 - [FrontLine SMS/ Clud](http://www.frontlinesms.com/)
 - [FreeSwitch](https://freeswitch.org/)
 
-## AVALUACIÓ
+## Assessment
 - [Mozilla Open Badges](http://openbadges.org/)
 - [LearningJAR](http://www.learningjar.com/)
 - [SkillsTO](http://www.skills.to/)
 - [Degreed](http://degreed.com/)
 
-## GESTIÓ DE BIBLIOTEQUES
+## Library Management
 - [Koha](http://www.koha.org/)
 
-## ACCÉS
+## Acces
 - [Open ID](http://openid.net/)
 - [Mozilla Persona](http://www.mozilla.org/persona/)
 - [TroveBox](https://current.trovebox.com/user/login)
@@ -275,17 +273,13 @@ Each group would be able to choose which tools to use to solve their needs. The 
 - [Sign in with Twitter](https://dev.twitter.com/docs/auth/sign-twitter)
 - [Sign in with Facebook](https://developers.facebook.com/docs/guides/web/)
 
-## GESTIÓ DE REGISTRES
+## Log System
 - [Graylog2](http://graylog2.org/)
 - [LogTash](http://logstash.net/)
 - [Kibana](http://kibana.org/)
 
-## Solucions per a cercadors web
+## Search Tools
 - [Open Source Enterprise Search Software](http://www.opensource-it.com/open_source_enterprise_search_software)
 
 ## Open Source Living
 - [OS Living](http://osliving.com/)
-
-## Coses interessants per estudiar millor
-- [Slid.es](https://slid.es)
-- [Lanyrd](http://lanyrd.com)
