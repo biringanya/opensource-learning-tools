@@ -179,6 +179,7 @@ Each group would be able to choose which tools to use to solve their needs. The 
 - [Dudle](https://dudle.inf.tu-dresden.de/privacy/)
 - [Pleft](http://pleft.thecoder4.eu/)
 - [Frame Date](https://git.framasoft.org/framasoft/framadate)
+- [Classroom Booking System](https://github.com/craigrodway/classroombookings)
 
 ## Surveys
 - [Lime Survey](http://www.limesurvey.org/es)
