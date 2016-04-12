@@ -52,7 +52,6 @@ Each group would be able to choose which tools to use to solve their needs. The 
 - [Hexo](https://hexo.io/)
 - [SiteLeaf](http://www.siteleaf.com/)
 - [SiteLeaf v2](http://v2.siteleaf.com/)
----
 - [Llista de opcions](http://www.modernstatic.com/)
 - [2na llista d'opcions](http://webdesignledger.com/staticgen-static-site-generators/)
 - [3ra llista d'opcions](https://www.staticgen.com/)
