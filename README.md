@@ -60,24 +60,22 @@ Each group would be able to choose which tools to use to solve their needs. The 
 - [3ra llista d'opcions](https://www.staticgen.com/)
 - [4ta llista d'opcions](https://github.com/aharris88/awesome-static-website-services#online-editors-for-static-sites)
 
-## Content Curation Tools
-- [Managing News](http://managingnews.com/)
-- [Comma Feed](http://www.commafeed.com/)
-- [Tiny Tiny RSS](http://tt-rss.org/redmine/projects/tt-rss/wiki)
+## Bookmark Management
+- [Bookie](https://github.com/bookieio/Bookie)
+
+## RSS agregators
+- [Comma Feed](https://github.com/Athou/commafeed)
+- [Tiny Tiny RSS](https://tt-rss.org/gitlab/fox/tt-rss)
 - [Feed reader](http://www.feedreader.com/)
 - [Freader](http://geekuillaume.github.io/Freader/)
 - [Feed on feeds](http://feedonfeeds.com/)
 - [Selfoss](http://selfoss.aditu.de/)
-- [Snownews](https://kiza.eu/software/snownews/)
 - [Reader Self](http://readerself.com/)
-- [PHP Paper](https://github.com/xbmcfreak/phppaper)
-- [Bookie](https://github.com/bookieio/Bookie)
-
-## RSS agregators
-- [Planet](http://www.planetplanet.org/)
 - [Moon Moon](http://moonmoon.org/)
 - [RNews](http://rnews.sourceforge.net/)
 - [Lilina](http://getlilina.org/)
+- [RSS Monster](https://github.com/pietheinstrengholt/rssmonster)
+- [Planet](http://www.planetplanet.org/) - Desktop Tools
 
 ## Comments System
 - [Commentics](http://www.commentics.org/)
@@ -90,6 +88,17 @@ Each group would be able to choose which tools to use to solve their needs. The 
 - [Commentics](http://www.commentics.org/)
 - [jskomment](https://code.google.com/p/jskomment/)
 - [Disqus](http://disqus.com/)
+
+## Open Social Networks
+- [Status Net](http://status.net/)
+- [Jisko](http://jisko.net/#)
+- [Thimbl](http://www.thimbl.net/)
+- [jaikuEngine](https://code.google.com/p/jaikuengine/)
+- [Sharetronix](http://developer.sharetronix.com/)
+- [EchoWaves](https://github.com/echowaves/echowaves)
+- [Storytlr](http://storytlr.org/)
+- [GNU Social](https://gnu.io/social/)
+- [Pump.io](http://pump.io/)
 
 ## Closed Social Networks
 - [Elgg](http://elgg.org)
@@ -239,17 +248,6 @@ Each group would be able to choose which tools to use to solve their needs. The 
 ## FAQ
 - [OSQA](http://www.osqa.net/)
 - [phpMyFAQ](http://www.phpmyfaq.de/)
-
-## Microbolgging
-- [Status Net](http://status.net/)
-- [Jisko](http://jisko.net/#)
-- [Thimbl](http://www.thimbl.net/)
-- [jaikuEngine](https://code.google.com/p/jaikuengine/)
-- [Sharetronix](http://developer.sharetronix.com/)
-- [EchoWaves](https://github.com/echowaves/echowaves)
-- [Storytlr](http://storytlr.org/)
-- [GNU Social](https://gnu.io/social/)
-- [Pump.io](http://pump.io/)
 
 ## SMS + Call Center
 - [Freedom Fone](http://freedomfone.org/)
