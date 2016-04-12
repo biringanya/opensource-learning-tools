@@ -91,7 +91,7 @@ Each group would be able to choose which tools to use to solve their needs. The 
 - [Disqus](http://disqus.com/)
 
 ## Closed Social Networks
-- [Elgg ](N-1)](http://elgg.org)
+- [Elgg](http://elgg.org)
 - [Diaspora](https://github.com/diaspora/diaspora)
 
 ## Mailing List
