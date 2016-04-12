@@ -38,6 +38,11 @@ Each group would be able to choose which tools to use to solve their needs. The 
 - [Get Simple](http://get-simple.info/)
 
 ## Static Site Generators
+
+| Tools                               | Language | License  |
+| ----------------------------------- |:-------: | --------:|
+| [Lektor](https://www.getlektor.com) | Python   | BSD      |
+
 - [Hugo](http://gohugo.io/)
 - [Backed.js](https://github.com/prismicio/baked.js)
 - [WebFlowCMS](https://webflow.com/)
@@ -53,6 +58,7 @@ Each group would be able to choose which tools to use to solve their needs. The 
 - [Substance](http://substance.io/)
 - [InstantUpdate](http://www.instant-update.com/#)
 - [Hexo](https://hexo.io/)
+- [Lektor](https://www.getlektor.com)
 - [SiteLeaf](http://www.siteleaf.com/)
 - [SiteLeaf v2](http://v2.siteleaf.com/)
 - [Llista de opcions](http://www.modernstatic.com/)
