@@ -1,15 +1,8 @@
 # Open Source Learning Tools
 
 *A compendium of open source tools which can be used with an instructional goal.*
----
 
-Since a few years ago I've been collecting some pieces of code which can be used for solving instructional goals. The main idea behind this collection is to ensemble some of this tools in a platform where peers could organize their own courses.
-
-Each group would be able to choose which tools to use to solve their needs. The platform could host open or closed classrooms and offer the p2p courses as a marketplace for individuals, groups or collectives.
-
----
-
-## PAD                                           
+## PAD
 - [Etherpad](http://etherpad.org/)
 - [ParticiPAD - WP Plugin](http://participad.org/)
 
@@ -21,21 +14,22 @@ Each group would be able to choose which tools to use to solve their needs. The 
 - [Bolt Wire](http://www.boltwire.com/)
 
 ## Content Management System (Dinamic)
-- [Wordpress](http://wordpress.org)
-- [Wordpress MU](http://mu.wordpress.org/)
-- [BuddyPress](http://buddypress.org/)
-- [Anchor CMS](http://anchorcms.com/)
-- [Frog](http://www.madebyfrog.com/)
-- [Open Atrium](http://openatrium.com/)
-- [Drupal Commons](http://commons.acquia.com/)
-- [PivotX](http://pivotx.net/)
-- [Stackbox](http://stackboxcms.com/)
-- [Open Conference System](http://pkp.sfu.ca/)
-- [Stacey](http://www.staceyapp.com/)
-- [Zotonic](http://zotonic.com/)
-- [11in1](http://www.11in1.org/)
-- [monstra](http://monstra.org/)
-- [Get Simple](http://get-simple.info/)
+
+| Tools                                       | Language | License  |
+| -----------------------------------------   |:-------: | --------:|
+| [Anchor CMS](http://anchorcms.com/)         | PHP      | GNU 3    |
+| [BuddyPress](http://buddypress.org/)        | PHP      | GPL 2    |
+| [Frog](http://www.madebyfrog.com/)          | PHP      | GNU 3    |
+| [Get Simple](http://get-simple.info/)       | PHP      | GPL      |
+| [monstra](http://monstra.org/)              | PHP      | MIT      |
+| [Radiant](http://radiantcms.org/)           | Ruby     | MIT      |
+| [Stackbox](http://stackboxcms.com/)         | PHP      | BSD      |
+| [Stacey](http://www.staceyapp.com/)         | PHP      | Open     |
+| [Wordpress](http://wordpress.org)           | PHP      | GPL 2    |
+| [Wordpress MU](http://mu.wordpress.org/)    | PHP      | GPL 2    |
+| [Zotonic](http://zotonic.com/)              | Earlang  | Apache 2 |
+
+* [Open Conference System](http://pkp.sfu.ca/)
 
 ## Static Site Generators
 
@@ -153,6 +147,7 @@ Each group would be able to choose which tools to use to solve their needs. The 
 - [Rocket Chat](https://rocket.chat/)
 - [Apache Open Meeting](http://openmeetings.apache.org/)
 - [Google Wave Protocol](http://www.waveprotocol.org/)
+- [Open Atrium](http://openatrium.com/)
 
 ## Interactive Slides
 - [Xerte](http://www.nottingham.ac.uk/xerte/index.aspx)
