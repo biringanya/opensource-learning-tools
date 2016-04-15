@@ -47,6 +47,10 @@ Each group would be able to choose which tools to use to solve their needs. The 
 | [MetalSmith](http://nanoc.ws/)      | NodeJS   | MIT      |
 | [Brunch](http://brunch.io/)         | NodeJS   | MIT      |
 | [HarpJS](http://harpjs.com/)        | NodeJS   | Open     |
+| [Ruhoh](http://ruhoh.com/)          | Ruby     | MIT      |
+| [Assemble](http://assemble.io/)     | NodeJS   | MIT      |
+| [WinterSmith](http://wintersmith.io/) | NodeJS | MIT      |
+| [Stasis](http://stasis.me/)         | Ruby     | Open     |
 
 - [Hugo](http://gohugo.io/)
 - [Backed.js](https://github.com/prismicio/baked.js)
