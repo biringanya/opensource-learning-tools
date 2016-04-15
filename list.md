@@ -44,7 +44,7 @@ Each group would be able to choose which tools to use to solve their needs. The 
 | ----------------------------------- |:-------: | --------:|
 | [Lektor](https://www.getlektor.com) | Python   | BSD      |
 | [Nanoc](http://nanoc.ws/)           | Ruby     | MIT      |
-| [MetalSmith](http://nanoc.ws/)      | NodeJS   | MIT      |
+| [MetalSmith](http://www.metalsmith.io/)      | NodeJS   | MIT      |
 | [Brunch](http://brunch.io/)         | NodeJS   | MIT      |
 | [HarpJS](http://harpjs.com/)        | NodeJS   | Open     |
 | [Ruhoh](http://ruhoh.com/)          | Ruby     | MIT      |
