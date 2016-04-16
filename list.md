@@ -296,3 +296,10 @@ Each group would be able to choose which tools to use to solve their needs. The 
 
 ## Open Source Living
 - [OS Living](http://osliving.com/)
+
+## Forms for static websites
+- [Simple Form](https://getsimpleform.com/)
+- [Formspree](http://formspree.io/)
+- [elFormo](https://www.elformo.com/)
+- [Flipmail](http://flipmail.co/)
+- [Mailthis](http://mailthis.to/)
