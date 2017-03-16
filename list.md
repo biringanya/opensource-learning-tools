@@ -13,6 +13,12 @@ Each group would be able to choose which tools to use to solve their needs. The 
 - [Etherpad](http://etherpad.org/)
 - [ParticiPAD - WP Plugin](http://participad.org/)
 
+## NOTE TAKING
+- [Paperwork](http://paperwork.rocks/)
+- [Laverna](https://laverna.cc/)
+- [Permanote](https://github.com/keybits/permanote)
+- [Brainstorm](https://github.com/Azeirah/brainstorm)
+
 ## WIKI
 - [Dokuwiki](https://www.dokuwiki.org/dokuwiki)
 - [Mediawiki](http://www.mediawiki.org/wiki/MediaWiki)
@@ -273,6 +279,17 @@ Each group would be able to choose which tools to use to solve their needs. The 
 - [LearningJAR](http://www.learningjar.com/)
 - [SkillsTO](http://www.skills.to/)
 - [Degreed](http://degreed.com/)
+
+## AI Natural language parsing
+- [wit.ai](https://wit.ai/)
+- [Botlibre](http://botlibre.com/)
+- [Mind Meld](https://www.mindmeld.com/)
+- [Chat Bots](https://developer.pandorabots.com/)
+- [Chatbot4u](http://www.chatbot4u.com/en)
+- [API AI](https://api.ai/)
+- [All Things Talk](http://www.allthingstalk.com/)
+- [Chat Script](https://sourceforge.net/projects/chatscript/)
+- [Program O](http://www.program-o.com/)
 
 ## Library Management
 - [Koha](http://www.koha.org/)
